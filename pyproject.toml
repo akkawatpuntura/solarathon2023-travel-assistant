@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "solarathon 2023 - Travel Assistant"
+name = "solarathon2023_TravelAssistant"
 description = "Template project for Solarathon 2023"
 version = "0.0.1"
 dependencies = [
